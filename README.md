@@ -78,7 +78,9 @@ fun_fact:   Secretly a Vampire 🧛 (please don't tell anyone)
 ## 📊 GitHub Stats
 
 <div align="center">
+
 ![GitHub Streak](https://streak-stats.demolab.com?user=hoseinabedi&theme=tokyonight&hide_border=true)
+
 </div>
 
 <div align="center">
