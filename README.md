@@ -78,16 +78,20 @@ fun_fact:   Secretly a Vampire 🧛 (please don't tell anyone)
 ## 📊 GitHub Stats
 
 <div align="center">
-
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=hoseinabedi&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=hoseinabedi&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
 <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hoseinabedi&langs_count=10&layout=compact&theme=tokyonight&hide_border=true&custom_title=Top%20Languages" />
-
 </div>
 
 <div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=hoseinabedi&theme=tokyo-night&hide_border=true" width="100%"/>
+</div>
 
-![GitHub Streak](https://streak-stats.demolab.com?user=hoseinabedi&theme=tokyonight&hide_border=true)
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=hoseinabedi&theme=tokyonight&column=7&margin-w=8&margin-h=8&no-frame=true" />
+</div>
 
+<div align="center">
+<img src="https://raw.githubusercontent.com/hoseinabedi/hoseinabedi/output/github-contribution-grid-snake-dark.svg" />
 </div>
 
 ---
